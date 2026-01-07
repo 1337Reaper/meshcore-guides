@@ -23,3 +23,5 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 ## Specifications
 - MCU: ESP32
 - Radio: SX1262
+
+## General Notes
